@@ -40,5 +40,6 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
 - [Koha ILS](https://koha-community.org/) - Open Source Integrated Library System
 - [Moodle](https://moodle.org/) - learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments
 - [ERPNext](https://erpnext.com/education) - ERP / SIS for schools
+- [Gibbon](https://gibbonedu.org/) - Created by teachers, Gibbon is the school platform which solves real problems encountered by educators every day.
 
 ## Other
