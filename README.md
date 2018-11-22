@@ -15,11 +15,20 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
 
 
 ## Classroom
-- [Epoptes](https://sites.google.com/a/epoptes.org/www/) - Classroom management software
-- [GCompris](https://gcompris.net) - educational software suite for children aged 2 to 10.
+- [Epoptes](https://sites.google.com/a/epoptes.org/www/) - classroom management software
+- [GCompris](https://gcompris.net) - educational software suite for children aged 2 to 10
+- [Musescore](https://musescore.com/) - professional free software to create, play and print sheet music
+- [OpenBoard](http://openboard.ch/index.en.html) - interactive whiteboard for schools and universities
+- [OpenShot](https://www.openshot.org/) - award-winning open source video editing software
+- [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software
+- [Inkscape](https://inkscape.org/) - free and open source professional vector graphics editor
+- [GIMP](https://www.gimp.org/) - free and open source image editor
+- [Krita](https://krita.org) - professional free and open source painting program
+- [LibreOffice](https://www.libreoffice.org/) - powerful open source office suite
 
 ## Server
 - [linuxmuster.net](https://www.linuxmuster.net/) - free all-in-one school server solution (user- and device management)
 - [Koha ILS](https://koha-community.org/) - Open Source Integrated Library System
+- [Moodle](https://moodle.org/) - learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments
 
 ## Other
