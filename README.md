@@ -20,7 +20,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
 ## Classroom
 - **Preschool / Elementary**
   - [GCompris](https://gcompris.net) - educational software suite for children aged 2 to 10
-- Secondary
+- **Secondary**
   - [Musescore](https://musescore.com/) - professional free software to create, play and print sheet music
 - **Graphics / Video / Audio**
   - [OpenShot](https://www.openshot.org/) - award-winning open source video editing software
