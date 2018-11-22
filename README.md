@@ -1,4 +1,7 @@
 # Awesome Open Source School
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Awesome free and open source software (FOSS) for schools. For the classroom, but also for the "backend" (selfhosted solutions, infrastructure).
 
 
