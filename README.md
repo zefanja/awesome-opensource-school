@@ -21,8 +21,39 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
 - **Preschool / Elementary**
   - [bambam](https://github.com/porridge/bambam) - Tool for introducting computers to children aged 1 to 3
   - [GCompris](https://gcompris.net) - educational software suite for children aged 2 to 10
+  - [KLettres](https://www.kde.org/applications/education/klettres/) - Learn the alphabet
+- **Language**
+  - **English**
+    - [Articulate](https://www.kde.org/applications/education/artikulate/) - KDE Pronunciation Trainer
+    - [KAnagram](https://www.kde.org/applications/education/kanagram/) - KDE letter ordering game
+    - [KWordQuiz](https://www.kde.org/applications/education/kwordquiz/) - KDE word flash cards
+    - [parley](https://www.kde.org/applications/education/parley/) - KDE vocabulary trainer
+  - **Japanese**
+    - [Kiten](https://www.kde.org/applications/education/kiten/) - KDE Reference/Study Tool
+- **Math**
+  - [Tux Math](https://sourceforge.net/projects/tuxmath/) - Math games
+  - [KBrunch](https://www.kde.org/applications/education/kbruch/) - KDE excercise fractions
+  - [Kig](https://www.kde.org/applications/education/kig/) - KDE interactive geometry
+  - [KmPlot](https://www.kde.org/applications/education/kmplot/) - KDE Function plotter
+  - [Qalculate](https://qalculate.github.io/) - Calculator
+  - [Cantor](https://www.kde.org/applications/education/cantor/) - KDE frontend to other math programs
+  - [KAlgebra](https://www.kde.org/applications/education/kalgebra/) - KDE graphing calculator
+  - [Rocs](https://www.kde.org/applications/education/rocs/) - Rocs graphy theory
+- **Geography**
+  - [OpenStreetMap](https://www.openstreetmap.org/) - Open data world map
+  - [KGeography](https://www.kde.org/applications/education/kgeography/) - KDE geography trainer
+  - [Marble](https://www.kde.org/applications/education/marble/) - Globe
+- **Science**
+  - [LabPlot](https://www.kde.org/applications/education/labplot/) - Science data plotter
+  - [KStars](https://www.kde.org/applications/education/kstars/) - Planetarium
+- **Chemistry**
+  - [Kalzium](https://www.kde.org/applications/education/kalzium/) - KDE periodic table of elements
+- **Physics**
+  - [Step](https://www.kde.org/applications/education/step/) - Interactive physical simulator
 - **Audio / Video / Graphics**
   - **Audio**
+    - [Minuet](https://www.kde.org/applications/education/minuet/) - Music education software
+    - [Music Blocks](https://musicblocks.net/) - Programmable music
     - [Musescore](https://musescore.com/) - professional free software to create, play and print sheet music
     - [Audacity](https://www.audacityteam.org/) - Free, open source, cross-platform audio software
     - [Ardour](http://ardour.org/) - Digital Audio Workstation (DAW)
@@ -41,12 +72,31 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
     - [FontForge](https://fontforge.github.io/) - Font editor
     - [darktable](https://www.darktable.org/) - Photography workflow editor
     - [RenPy](https://www.renpy.org) - visual novel editor
+- **Typing**
+  - [KTouch](https://www.kde.org/applications/education/ktouch/) - KDE typing tutor
+  - [Klavaro](http://klavaro.sourceforge.net/) - Typing tutor
+  - [TIPP10](https://www.tipp10.com/) - Typing tutor
+  - [Tux Typing](https://sourceforge.net/projects/tuxtype/) - Typing tutor
+  - [GNU Typist](https://www.gnu.org/software/gtypist/) - Typing tutor
+- **Programming**
+  - [KTurtle](https://www.kde.org/applications/education/kturtle/) - Move a turtle with code
+  - [Blockly](https://developers.google.com/blockly/) - Framework for coding with drag and drop blocks
+  - [Lua](https://www.lua.org/) - Easy to learn programming language
+  - [Python](https://www.python.org/) - Easy to learn programming language
+  - [Pygame](https://www.pygame.org/) - Python module for creating games
+  - [Processing](https://processing.org/) - Easy to learn programming language for artists
+  - [Octave](https://www.gnu.org/software/octave/) - Scientific programming language
 - **Operating Systems**    
   - [GalliumOS](https://galliumos.org/) - Chromebook alternative operating system based on Ubuntu
   - [Ubuntu Studio](https://ubuntustudio.org/) - live distribution for sampling Audio/Video tools
   - [AV Linux](http://www.bandshed.net/avlinux/) - live distribution for sampling Audio/Video tools
+  - [DebianEdu/Skolelinux](https://wiki.debian.org/DebianEdu/GetACopy) - distribution for sampling educational software
+  - [Debian](https://www.debian.org/distrib/) - Free and open source distribution
+  - [Ubuntu](https://www.ubuntu.com/) - Free and open source distribution
+  - [Trisquel](https://trisquel.info/) - Free and open source distribution
 - **Productivity**
   - [LibreOffice](https://www.libreoffice.org/) - powerful open source office suite
+  - [FocusWriter](https://gottcode.org/focuswriter/) - Minimalistic text editor
   - [Dia](https://wiki.gnome.org/Apps/Dia) - Diagram editor
   - [Scribus](https://www.scribus.net/) - Desktop publishing
 - **Other**
