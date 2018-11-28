@@ -40,6 +40,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [KAlgebra](https://www.kde.org/applications/education/kalgebra/) - KDE graphing calculator
   - [Rocs](https://www.kde.org/applications/education/rocs/) - Rocs graphy theory
 - **Geography**
+  - [OpenStreetMap](https://www.openstreetmap.org/) - Open data world map
   - [KGeography](https://www.kde.org/applications/education/kgeography/) - KDE geography trainer
   - [Marble](https://www.kde.org/applications/education/marble/) - Globe
 - **Science**
@@ -79,8 +80,10 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [GNU Typist](https://www.gnu.org/software/gtypist/) - Typing tutor
 - **Programming**
   - [KTurtle](https://www.kde.org/applications/education/kturtle/) - Move a turtle with code
+  - [Blockly](https://developers.google.com/blockly/) - Framework for coding with drag and drop blocks
   - [Lua](https://www.lua.org/) - Easy to learn programming language
   - [Python](https://www.python.org/) - Easy to learn programming language
+  - [Pygame](https://www.pygame.org/) - Python module for creating games
   - [Processing](https://processing.org/) - Easy to learn programming language for artists
   - [Octave](https://www.gnu.org/software/octave/) - Scientific programming language
 - **Operating Systems**    
@@ -88,8 +91,12 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [Ubuntu Studio](https://ubuntustudio.org/) - live distribution for sampling Audio/Video tools
   - [AV Linux](http://www.bandshed.net/avlinux/) - live distribution for sampling Audio/Video tools
   - [DebianEdu/Skolelinux](https://wiki.debian.org/DebianEdu/GetACopy) - distribution for sampling educational software
+  - [Debian](https://www.debian.org/distrib/) - Free and open source distribution
+  - [Ubuntu](https://www.ubuntu.com/) - Free and open source distribution
+  - [Trisquel](https://trisquel.info/) - Free and open source distribution
 - **Productivity**
   - [LibreOffice](https://www.libreoffice.org/) - powerful open source office suite
+  - [FocusWriter](https://gottcode.org/focuswriter/) - Minimalistic text editor
   - [Dia](https://wiki.gnome.org/Apps/Dia) - Diagram editor
   - [Scribus](https://www.scribus.net/) - Desktop publishing
 - **Other**
