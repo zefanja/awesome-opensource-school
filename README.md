@@ -43,6 +43,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [OpenStreetMap](https://www.openstreetmap.org/) - Open data world map
   - [KGeography](https://www.kde.org/applications/education/kgeography/) - KDE geography trainer
   - [Marble](https://www.kde.org/applications/education/marble/) - Globe
+  - [QGIS](https://www.qgis.org/de/site/) - A Free and Open Source Geographic Information System
 - **Science**
   - [LabPlot](https://www.kde.org/applications/education/labplot/) - Science data plotter
   - [KStars](https://www.kde.org/applications/education/kstars/) - Planetarium
