@@ -107,6 +107,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
 - **Classroom Management Software (CMS)**
   - [Epoptes](https://sites.google.com/a/epoptes.org/www/) - classroom monitor
   - [Veyon](https://veyon.io/) - classroom monitor
+  - [HPI-Schulcloud](https://github.com/hpi-schul-cloud) - Technical basis for teachers and pupils to be able to use modern digital teaching and learning content via any device in any subject without any special prior technical knowledge. 
 - **Other**
   - [linuxmuster.net](https://www.linuxmuster.net/) - free all-in-one school server solution (user- and device management)
   - [Koha ILS](https://koha-community.org/) - Open Source Integrated Library System
