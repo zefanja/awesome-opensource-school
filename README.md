@@ -23,6 +23,8 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [GCompris](https://gcompris.net) - educational software suite for children aged 2 to 10
   - [KLettres](https://www.kde.org/applications/education/klettres/) - Learn the alphabet
 - **Language**
+  - **Multi-language**
+    - [The Daily Lesson](https://thedailylesson.com) - Daily 5-minute lessons in 47 languages, CC-BY-4.0 open courseware ([content repo](https://github.com/nicoletterankin/the-daily-lesson))
   - **English**
     - [Articulate](https://www.kde.org/applications/education/artikulate/) - KDE Pronunciation Trainer
     - [KAnagram](https://www.kde.org/applications/education/kanagram/) - KDE letter ordering game
