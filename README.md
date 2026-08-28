@@ -30,6 +30,8 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
     - [parley](https://www.kde.org/applications/education/parley/) - KDE vocabulary trainer
   - **Japanese**
     - [Kiten](https://www.kde.org/applications/education/kiten/) - KDE Reference/Study Tool
+  - **Tagalog/Filipino**
+    - [TagTrain](https://github.com/colsonj/learn-tagalog) - Language Learning Course CEFR A1–B2
 - **Math**
   - [Tux Math](https://sourceforge.net/projects/tuxmath/) - Math games
   - [KBrunch](https://www.kde.org/applications/education/kbruch/) - KDE excercise fractions
