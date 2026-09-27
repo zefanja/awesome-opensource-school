@@ -97,6 +97,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [Trisquel](https://trisquel.info/) - Free and open source distribution
 - **Productivity**
   - [LibreOffice](https://www.libreoffice.org/) - powerful open source office suite
+  - [QTI Pocket Check](https://github.com/xtddxsh1/qti-pocket-check) - Read-only browser tool for teachers to inspect QTI quiz ZIPs locally: count question definitions, identify missing package files, and export diagnostics without uploading exam content. MIT licensed.
   - [QuiQui](https://github.com/th-nuernberg/quiqui) - Live audience response tool for university lectures: pose a question, students answer on their phones via QR code, the class sees a live result chart. Questions are authored as YAML in a GitHub repo (version-controlled, shareable, no data-entry UI) and support Markdown and LaTeX math. No database, no accounts.
   - [FocusWriter](https://gottcode.org/focuswriter/) - Minimalistic text editor
   - [Dia](https://wiki.gnome.org/Apps/Dia) - Diagram editor
