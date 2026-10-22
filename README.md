@@ -30,6 +30,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
     - [parley](https://www.kde.org/applications/education/parley/) - KDE vocabulary trainer
   - **Japanese**
     - [Kiten](https://www.kde.org/applications/education/kiten/) - KDE Reference/Study Tool
+    - [AI Language Partner](https://github.com/duct-tape2/ai-language-partner) - Local-first Japanese dialogue practice app for Korean-speaking classrooms, with open-source mobile/API code and scripted dialogue packs.
 - **Math**
   - [Tux Math](https://sourceforge.net/projects/tuxmath/) - Math games
   - [KBrunch](https://www.kde.org/applications/education/kbruch/) - KDE excercise fractions
