@@ -120,6 +120,7 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
   - [Gibbon](https://gibbonedu.org/) - Created by teachers, Gibbon is the school platform which solves real problems encountered by educators every day.
   - [RosarioSIS](https://www.rosariosis.org/) - Free Student Information System for school management
   - [ReportBurster](https://www.reportburster.com) - Free Business Intelligence For Schools (alternative to commercial SSRS/PowerBI/Tableau)
+  - [Schooling](https://github.com/MaxLiu1979/schooling) - AI agent workflow framework for schools. Built from real K12 operation, includes 60+ operational documents, 10-department agent architecture, and published ClawHub Skills. Focuses on organizational memory rather than just feature-listing. [MIT]
 
 ## Other
 - Make sure to have a look at [awesome sysadmin](https://github.com/n1trux/awesome-sysadmin), too. There are many many tools, that are helpful in a school like automation, backup, monitoring etc.
