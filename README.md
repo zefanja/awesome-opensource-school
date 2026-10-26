@@ -125,3 +125,4 @@ See [Contributing](https://github.com/zefanja/awesome-opensource-school/blob/mas
 - Make sure to have a look at [awesome sysadmin](https://github.com/n1trux/awesome-sysadmin), too. There are many many tools, that are helpful in a school like automation, backup, monitoring etc.
 
 * [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
+* [EQ Ear Training Game](https://theaudiostuff.com/tools/ear-training/) - Free, browser-based ear-training game for recognising frequencies and pitch differences (tones from 20 Hz to 20 kHz), with score tracking. No signup, runs locally in the browser.
